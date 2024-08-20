@@ -47,6 +47,10 @@
 .button {
     height: 4vw;
     border: 2px solid;
+    font-size: 3vh;
+}
+.button:hover {
+    background-color: rgb(243, 243, 243);
 }
 #zero {
     grid-column-start: 1;
